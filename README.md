@@ -2,7 +2,10 @@
 A simple Website that is designed for practice purpose where i created static nav bar and scrollable web-page includes multiple pages
 ACTIONS:
 on clicking Begin celebration a action takes place where "notification alert" message pops up 
-#technologies i used:
+
+
+
+#Technologies i used:
 ##1. HTML
 ##2. CSS
 ##3. JAVASCRIPT
